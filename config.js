@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"","subject":"","keywords":"","creator":"","producer":"","creationdate":"","moddate":"","trapped":"","fileName":"Klebsiella_вызывает_ревматоидный_артрит,_болезнь_Бехтерева,_что_делат__-_www.fixyourgut.com.pdf","bounds":[[2200,25146]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
